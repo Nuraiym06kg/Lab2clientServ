@@ -1,0 +1,13 @@
+{
+  "name": "eshop-api",
+  "version": "1.0.0",
+  "description": "API для анализа поведения клиентов интернет-магазина",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
